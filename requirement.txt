@@ -1,4 +1,6 @@
 appdirs==1.4.0
+dj-database-url==0.4.1
+gunicorn==19.6.0
 Django==1.10.5
 django-angular==0.8.4
 django-cors-headers==2.0.2
